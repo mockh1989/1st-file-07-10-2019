@@ -31,6 +31,8 @@ Lecture 1 - 5
 - [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Numpy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
+#### seaborn
+- [seaborn: statistical data visualization](https://seaborn.pydata.org/)
 
 To be continue.
 
