@@ -26,15 +26,15 @@ Lecture 1 - 5
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [資料分析&機器學習Kaggle競賽-鐵達尼號生存預測](https://medium.com/jameslearningnote/資料分析-機器學習-第4-1講-kaggle競賽-鐵達尼號生存預測-前16-排名-a8842fea7077)
 - [Titanic Data Science Solutions](https://www.kaggle.com/startupsci/titanic-data-science-solutions) : 
---Logistic Regression
---KNN or k-Nearest Neighbors
---Support Vector Machines
---Naive Bayes classifier
---Decision Tree
---Random Forrest
---Perceptron
---Artificial neural network
---RVM or Relevance Vector Machine
+Logistic Regression
+, KNN or k-Nearest Neighbors
+, Support Vector Machines
+, Naive Bayes classifier
+, Decision Tree
+, Random Forrest
+, Perceptron
+, Artificial neural network
+, RVM or Relevance Vector Machine
 
 #### Cheat sheet
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
