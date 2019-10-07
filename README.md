@@ -24,7 +24,7 @@ Lecture 1 - 5
 
 #### Kaggle
 - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-- [資料分析&機器學習Kaggle競賽-鐵達尼號生存預測](https://medium.com/jameslearningnote/資料分析-機器學習-第4-1講-kaggle競賽-鐵達尼號生存預測-前16-排名-a8842fea7077)
+- [資料分析&機器學習Kaggle競賽-鐵達尼號生存預測](https://medium.com/jameslearningnote/資料分析-機器學習-第4-1講-kaggle競賽-鐵達尼號生存預測-前16-排名-a8842fea7077)
 
 #### Cheat sheet
 - [Python Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
