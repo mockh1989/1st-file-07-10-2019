@@ -2,7 +2,9 @@
 
 It is my 1st folder about Python Studies.
 I studied python from [Anthony Lo](https://www.linkedin.com/in/anthony-lo-ab2b9253).
-this is his [github](https://github.com/team-ant/data_science_course).
+---
+And this is his [github](https://github.com/team-ant/data_science_course).
+---
 Please have a look.
 
 There are 2 Big folder - Basic and Advance.
